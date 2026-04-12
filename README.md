@@ -1,4 +1,4 @@
-# Football Video Analytics Platforms
+# Football Video Analytics Platform
 
 Production-ready AI-powered football match analysis system.
 
